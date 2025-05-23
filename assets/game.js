@@ -27,7 +27,7 @@ globalThis.games = [
     "date": "2025-05-23",
     "start": "TIDAL",
     "end": "LUNAR",
-    "ace": 6,
+    "ace": 7,
 		"difficulty": 4
   },
   {
