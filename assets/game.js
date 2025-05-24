@@ -3,39 +3,43 @@ globalThis.games = [
     "date": "2025-05-19",
     "start": "EVOLVE",
     "end": "CHANGE",
+    "par": 12,
     "ace": 8
   },
   {
     "date": "2025-05-20",
     "start": "ANGRY",
     "end": "CHILL",
+    "par": 12,
     "ace": 8
   },
   {
     "date": "2025-05-21",
     "start": "SONAR",
     "end": "ECHO",
+    "par": 10,
     "ace": 7
   },
   {
     "date": "2025-05-22",
     "start": "SEEDS",
     "end": "FRUIT",
+    "par": 9,
     "ace": 6
   },
   {
     "date": "2025-05-23",
     "start": "TIDAL",
     "end": "LUNAR",
-    "ace": 7,
-		"difficulty": 4
+    "par": 9,
+    "ace": 6
   },
   {
     "date": "2025-05-24",
     "start": "INSULT",
     "end": "BLOCKED",
     "ace": 10,
-    "difficulty": 3
+    "difficulty": 4
   },
   {
     "date": "2025-05-25",
@@ -46,52 +50,52 @@ globalThis.games = [
   },
   {
     "date": "2025-05-26",
-    "start": "REALLY",
-    "end": "TRULY",
-    "ace": 7,
-    "difficulty": 3
+    "start": "TINY",
+    "end": "HUGE",
+    "ace": 6,
+    "difficulty": 2
   },
   {
     "date": "2025-05-27",
-    "start": "PROTON",
-    "end": "NEUTRON",
-    "ace": 12,
-    "difficulty": 4
+    "start": "SPOON",
+    "end": "LADLE",
+    "ace": 8,
+    "difficulty": 2
   },
   {
     "date": "2025-05-28",
-    "start": "POTATO",
-    "end": "FRIES",
+    "start": "PIGGY",
+    "end": "BACON",
     "ace": 8,
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "date": "2025-05-29",
-    "start": "LAYUP",
+    "start": "DRIBBLE",
     "end": "BASKET",
-    "ace": 9,
-    "difficulty": 3
+    "ace": 8,
+    "difficulty": 2
   },
   {
     "date": "2025-05-30",
     "start": "CARBS",
     "end": "PROTEIN",
     "ace": 9,
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "date": "2025-05-31",
-    "start": "VETERAN",
+    "start": "SOLDIER",
     "end": "HONOR",
-    "ace": 10,
+    "ace": 7,
     "difficulty": 3
   },
   {
     "date": "2025-06-01",
     "start": "SEEDLING",
-    "end": "TREE",
-    "ace": 9,
-    "difficulty": 1
+    "end": "OAK",
+    "ace": 10,
+    "difficulty": 2
   },
   {
     "date": "2025-06-02",
@@ -105,7 +109,7 @@ globalThis.games = [
     "start": "LEAKS",
     "end": "INFLATES",
     "ace": 9,
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "date": "2025-06-04",
@@ -140,7 +144,7 @@ globalThis.games = [
     "start": "MENTOR",
     "end": "GROWTH",
     "ace": 8,
-    "difficulty": 3
+    "difficulty": 4
   },
   {
     "date": "2025-06-09",
@@ -151,10 +155,10 @@ globalThis.games = [
   },
   {
     "date": "2025-06-10",
-    "start": "FEARING",
-    "end": "FAULT",
-    "ace": 9,
-    "difficulty": 2
+    "start": "FRIGHTEN",
+    "end": "FEAR",
+    "ace": 10,
+    "difficulty": 3
   },
   {
     "date": "2025-06-11",
@@ -165,227 +169,227 @@ globalThis.games = [
   },
   {
     "date": "2025-06-12",
-    "start": "CURSE",
-    "end": "BIRTH",
-    "par": 9,
-    "ace": 6
+    "start": "MUMMY",
+    "end": "CURSE",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-06-13",
-    "start": "BABEL",
-    "end": "VOTING",
-    "par": 12,
-    "ace": 8
+    "start": "TOWER",
+    "end": "BABEL",
+    "ace": 6,
+    "difficulty": 1
   },
   {
     "date": "2025-06-14",
     "start": "QUERIES",
-    "end": "BOOTHS",
-    "par": 14,
-    "ace": 10
+    "end": "RESPONSES",
+    "ace": 17,
+    "difficulty": 3
   },
   {
     "date": "2025-06-15",
-    "start": "GENERIC",
+    "start": "ANIMATED",
     "end": "CORPSE",
-    "par": 14,
-    "ace": 10
+    "ace": 11,
+    "difficulty": 3
   },
   {
     "date": "2025-06-16",
     "start": "YOUNGER",
     "end": "ADOPT",
-    "par": 13,
-    "ace": 9
+    "ace": 10,
+    "difficulty": 3
   },
   {
     "date": "2025-06-17",
-    "start": "SUMMERS",
+    "start": "BORROW",
     "end": "LENDER",
-    "par": 12,
-    "ace": 8
+    "ace": 9,
+    "difficulty": 2
   },
   {
     "date": "2025-06-18",
-    "start": "SHIFTING",
-    "end": "SLUDGE",
-    "par": 14,
-    "ace": 10
+    "start": "SHIFTY",
+    "end": "NERVES",
+    "ace": 8,
+    "difficulty": 2
   },
   {
     "date": "2025-06-19",
-    "start": "TURNED",
+    "start": "SEAN",
     "end": "PIERCE",
-    "par": 8,
-    "ace": 5
+    "ace": 6,
+    "difficulty": 1
   },
   {
     "date": "2025-06-20",
     "start": "SELECTED",
-    "end": "ESTATE",
-    "par": 12,
-    "ace": 8
+    "end": "CHOSEN",
+    "ace": 12,
+    "difficulty": 2
   },
   {
     "date": "2025-06-21",
-    "start": "AWARDED",
+    "start": "SWING",
     "end": "HOMER",
-    "par": 9,
-    "ace": 6
+    "ace": 7,
+    "difficulty": 1
   },
   {
     "date": "2025-06-22",
-    "start": "AMENDED",
+    "start": "NAMELESS",
     "end": "UNTITLED",
-    "par": 10,
-    "ace": 7
+    "ace": 13,
+    "difficulty": 3
   },
   {
     "date": "2025-06-23",
-    "start": "SHRINE",
+    "start": "PASTA",
     "end": "NOODLES",
-    "par": 12,
-    "ace": 8
+    "ace": 9,
+    "difficulty": 2
   },
   {
     "date": "2025-06-24",
-    "start": "WHOLE",
+    "start": "ROUGHER",
     "end": "SMOOTHER",
-    "par": 10,
-    "ace": 7
+    "ace": 6,
+    "difficulty": 2
   },
   {
     "date": "2025-06-25",
-    "start": "POUCHES",
+    "start": "PEEK",
     "end": "GLANCE",
-    "par": 10,
-    "ace": 7
+    "ace": 7,
+    "difficulty": 1
   },
   {
     "date": "2025-06-26",
-    "start": "OUTLINE",
+    "start": "SLEEPING",
     "end": "WAKING",
-    "par": 13,
-    "ace": 9
+    "ace": 6,
+    "difficulty": 1
   },
   {
     "date": "2025-06-27",
-    "start": "SIGHT",
+    "start": "GREASE",
     "end": "FRICTION",
-    "par": 14,
-    "ace": 10
+    "ace": 12,
+    "difficulty": 2
   },
   {
     "date": "2025-06-28",
     "start": "BILLIONS",
-    "end": "ATTACKER",
-    "par": 20,
-    "ace": 15
+    "end": "RECLAIM",
+    "ace": 11,
+    "difficulty": 4
   },
   {
     "date": "2025-06-29",
-    "start": "TRIAD",
-    "end": "FOLEY",
-    "par": 9,
-    "ace": 6
+    "start": "TRIAGE",
+    "end": "TREAT",
+    "ace": 5,
+    "difficulty": 2
   },
   {
     "date": "2025-06-30",
     "start": "BOURNE",
-    "end": "RETURNED",
-    "par": 12,
-    "ace": 8
+    "end": "SPIES",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-07-01",
     "start": "NIMROD",
     "end": "PRESIDENT",
-    "par": 17,
-    "ace": 13
+    "ace": 14,
+    "difficulty": 4
   },
   {
     "date": "2025-07-02",
     "start": "BILLIE",
-    "end": "POSING",
-    "par": 10,
-    "ace": 7
+    "end": "JEAN",
+    "ace": 8,
+    "difficulty": 1
   },
   {
     "date": "2025-07-03",
-    "start": "RAPID",
+    "start": "UNDERTAKEN",
     "end": "SKIPPED",
-    "par": 8,
-    "ace": 5
+    "ace": 18,
+    "difficulty": 5
   },
   {
     "date": "2025-07-04",
     "start": "STARS",
     "end": "STRIPES",
-    "par": 7,
-    "ace": 4
+    "ace": 5,
+    "difficulty": 2
   },
   {
     "date": "2025-07-05",
-    "start": "PASSED",
-    "end": "STARK",
-    "par": 8,
-    "ace": 5
+    "start": "STARK",
+    "end": "IRON",
+    "ace": 6,
+    "difficulty": 1
   },
   {
     "date": "2025-07-06",
     "start": "PROVERBS",
-    "end": "PUMPKIN",
-    "par": 16,
-    "ace": 12
+    "end": "PSALMS",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-07",
     "start": "RECITAL",
-    "end": "FLOCK",
-    "par": 10,
-    "ace": 7
+    "end": "VERSES",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-08",
     "start": "FLOATS",
-    "end": "CHOSE",
-    "par": 9,
-    "ace": 6
+    "end": "CRASHES",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-07-09",
     "start": "NOVELS",
-    "end": "TRANCE",
-    "par": 10,
-    "ace": 7
+    "end": "STORIES",
+    "ace": 7,
+    "difficulty": 1
   },
   {
     "date": "2025-07-10",
     "start": "FISHES",
-    "end": "DWELLINGS",
-    "par": 13,
-    "ace": 9
+    "end": "MAMMALS",
+    "ace": 8,
+    "difficulty": 2
   },
   {
     "date": "2025-07-11",
-    "start": "DEPARTING",
-    "end": "BESIDE",
-    "par": 15,
-    "ace": 11
+    "start": "HELLO",
+    "end": "GOODBYE",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-12",
-    "start": "FARMING",
-    "end": "WEAVE",
-    "par": 10,
-    "ace": 7
+    "start": "REAPING",
+    "end": "SOWING",
+    "ace": 5,
+    "difficulty": 1
   },
   {
     "date": "2025-07-13",
-    "start": "ENDORSED",
-    "end": "BARKER",
-    "par": 13,
-    "ace": 9
+    "start": "CIRCUS",
+    "end": "MONKEY",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-14",
