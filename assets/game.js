@@ -39,7 +39,7 @@ globalThis.games = [
     "start": "INSULT",
     "end": "BLOCKED",
     "ace": 10,
-    "difficulty": 4
+    "difficulty": 3
   },
   {
     "date": "2025-05-25",
@@ -165,7 +165,7 @@ globalThis.games = [
     "start": "SLOPPY",
     "end": "STEAK",
     "ace": 7,
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "date": "2025-06-12",
@@ -179,20 +179,20 @@ globalThis.games = [
     "start": "TOWER",
     "end": "BABEL",
     "ace": 6,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "date": "2025-06-14",
-    "start": "QUERIES",
-    "end": "RESPONSES",
-    "ace": 17,
+    "start": "TWIRL",
+    "end": "AROUND",
+    "ace": 8,
     "difficulty": 3
   },
   {
     "date": "2025-06-15",
-    "start": "ANIMATED",
-    "end": "CORPSE",
-    "ace": 11,
+    "start": "SOLID",
+    "end": "PLASMA",
+    "ace": 7,
     "difficulty": 3
   },
   {
@@ -305,7 +305,7 @@ globalThis.games = [
     "start": "NIMROD",
     "end": "PRESIDENT",
     "ace": 14,
-    "difficulty": 4
+    "difficulty": 5
   },
   {
     "date": "2025-07-02",
@@ -451,8 +451,8 @@ globalThis.games = [
     "date": "2025-07-22",
     "start": "ENTAIL",
     "end": "CREATURE",
-    "par": 15,
-    "ace": 11
+    "ace": 12,
+    "difficulty": 5
   },
   {
     "date": "2025-07-23",
@@ -486,15 +486,15 @@ globalThis.games = [
     "date": "2025-07-27",
     "start": "CONTEST",
     "end": "WINNER",
-    "par": 8,
-    "ace": 5
+    "ace": 6,
+    "difficulty": 3
   },
   {
     "date": "2025-07-28",
     "start": "PARADOX",
     "end": "ENIGMA",
-    "par": 15,
-    "ace": 11
+    "ace": 12,
+    "difficulty": 5
   },
   {
     "date": "2025-07-29",
@@ -514,8 +514,8 @@ globalThis.games = [
     "date": "2025-07-31",
     "start": "INTERNET",
     "end": "ROUTER",
-    "par": 12,
-    "ace": 8
+    "ace": 9,
+    "difficulty": 2
   },
   {
     "date": "2025-08-01",
@@ -605,8 +605,8 @@ globalThis.games = [
     "date": "2025-08-13",
     "start": "WRITE",
     "end": "REVISE",
-    "par": 8,
-    "ace": 5
+    "ace": 6,
+    "difficulty": 2
   },
   {
     "date": "2025-08-14",
@@ -661,15 +661,15 @@ globalThis.games = [
     "date": "2025-08-21",
     "start": "BABES",
     "end": "REIGN",
-    "par": 9,
-    "ace": 6
+    "ace": 7,
+    "difficulty": 1
   },
   {
     "date": "2025-08-22",
     "start": "BATTER",
     "end": "COOKIES",
-    "par": 10,
-    "ace": 7
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-08-23",
@@ -682,43 +682,43 @@ globalThis.games = [
     "date": "2025-08-24",
     "start": "LISTENERS",
     "end": "CRACKS",
-    "par": 13,
-    "ace": 9
+    "ace": 10,
+    "difficulty": 5
   },
   {
     "date": "2025-08-25",
     "start": "HYDRO",
     "end": "VALVE",
-    "par": 10,
-    "ace": 7
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-08-26",
     "start": "PROFESSOR",
     "end": "EMERITUS",
-    "par": 18,
-    "ace": 14
+    "ace": 15,
+    "difficulty": 5
   },
   {
     "date": "2025-08-27",
     "start": "DRAINAGE",
     "end": "SALLE",
-    "par": 13,
-    "ace": 9
+    "ace": 10,
+    "difficulty": 5
   },
   {
     "date": "2025-08-28",
     "start": "BUSTER",
     "end": "SHRUBS",
-    "par": 9,
-    "ace": 6
+    "ace": 7,
+    "difficulty": 3
   },
   {
     "date": "2025-08-29",
     "start": "HANDSETS",
     "end": "FUNNIEST",
-    "par": 13,
-    "ace": 9
+    "ace": 10,
+    "difficulty": 5
   },
   {
     "date": "2025-08-30",
