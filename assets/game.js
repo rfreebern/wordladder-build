@@ -183,10 +183,10 @@ globalThis.games = [
   },
   {
     "date": "2025-06-14",
-    "start": "TWIRL",
-    "end": "AROUND",
-    "ace": 8,
-    "difficulty": 3
+    "start": "PROTEST",
+    "end": "FREE",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-06-15",
@@ -197,10 +197,10 @@ globalThis.games = [
   },
   {
     "date": "2025-06-16",
-    "start": "YOUNGER",
-    "end": "ADOPT",
-    "ace": 10,
-    "difficulty": 3
+    "start": "SOIL",
+    "end": "GARDEN",
+    "ace": 8,
+    "difficulty": 2
   },
   {
     "date": "2025-06-17",
@@ -228,7 +228,7 @@ globalThis.games = [
     "start": "SELECTED",
     "end": "CHOSEN",
     "ace": 12,
-    "difficulty": 2
+    "difficulty": 4
   },
   {
     "date": "2025-06-21",
@@ -242,7 +242,7 @@ globalThis.games = [
     "start": "NAMELESS",
     "end": "UNTITLED",
     "ace": 13,
-    "difficulty": 3
+    "difficulty": 5
   },
   {
     "date": "2025-06-23",
@@ -256,42 +256,42 @@ globalThis.games = [
     "start": "ROUGHER",
     "end": "SMOOTHER",
     "ace": 6,
-    "difficulty": 2
+    "difficulty": 4
   },
   {
     "date": "2025-06-25",
     "start": "PEEK",
     "end": "GLANCE",
     "ace": 7,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "date": "2025-06-26",
     "start": "SLEEPING",
     "end": "WAKING",
     "ace": 6,
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "date": "2025-06-27",
     "start": "GREASE",
     "end": "FRICTION",
     "ace": 12,
-    "difficulty": 2
+    "difficulty": 4
   },
   {
     "date": "2025-06-28",
-    "start": "BILLIONS",
-    "end": "RECLAIM",
-    "ace": 11,
-    "difficulty": 4
+    "start": "WEALTH",
+    "end": "SHARED",
+    "ace": 6,
+    "difficulty": 2
   },
   {
     "date": "2025-06-29",
     "start": "TRIAGE",
     "end": "TREAT",
     "ace": 5,
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "date": "2025-06-30",
@@ -302,31 +302,31 @@ globalThis.games = [
   },
   {
     "date": "2025-07-01",
-    "start": "NIMROD",
-    "end": "PRESIDENT",
-    "ace": 14,
-    "difficulty": 5
+    "start": "MORON",
+    "end": "CHIEF",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-02",
     "start": "BILLIE",
     "end": "JEAN",
     "ace": 8,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "date": "2025-07-03",
-    "start": "UNDERTAKEN",
+    "start": "TRIED",
     "end": "SKIPPED",
-    "ace": 18,
-    "difficulty": 5
+    "ace": 6,
+    "difficulty": 2
   },
   {
     "date": "2025-07-04",
     "start": "STARS",
     "end": "STRIPES",
     "ace": 5,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "date": "2025-07-05",
@@ -589,10 +589,10 @@ globalThis.games = [
   },
   {
     "date": "2025-08-11",
-    "start": "EMACS",
-    "end": "EAGLE",
-    "par": 8,
-    "ace": 5
+    "start": "THIRSTY",
+    "end": "PEPSI",
+    "ace": 9,
+    "difficulty": 3
   },
   {
     "date": "2025-08-12",
@@ -746,4 +746,4 @@ globalThis.games = [
     "end": "REMOVED",
     "ace": 13
   }
-]
+];
