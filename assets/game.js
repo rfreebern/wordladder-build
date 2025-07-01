@@ -319,7 +319,7 @@ globalThis.games = [
     "start": "TRIED",
     "end": "SKIPPED",
     "ace": 6,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "date": "2025-07-04",
@@ -340,7 +340,7 @@ globalThis.games = [
     "start": "PROVERBS",
     "end": "PSALMS",
     "ace": 8,
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "date": "2025-07-07",
@@ -361,7 +361,7 @@ globalThis.games = [
     "start": "NOVELS",
     "end": "STORIES",
     "ace": 7,
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "date": "2025-07-10",
@@ -375,14 +375,14 @@ globalThis.games = [
     "start": "HELLO",
     "end": "GOODBYE",
     "ace": 8,
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "date": "2025-07-12",
     "start": "REAPING",
     "end": "SOWING",
     "ace": 5,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "date": "2025-07-13",
@@ -394,93 +394,93 @@ globalThis.games = [
   {
     "date": "2025-07-14",
     "start": "HOCKEY",
-    "end": "DROPS",
-    "par": 9,
-    "ace": 6
+    "end": "PUCK",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-07-15",
-    "start": "LOOTERS",
-    "end": "VILLA",
-    "par": 10,
-    "ace": 7
+    "start": "TRIP",
+    "end": "BEACH",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-07-16",
-    "start": "WARDEN",
-    "end": "REALLY",
-    "par": 9,
-    "ace": 6
+    "start": "GALAXY",
+    "end": "NEBULA",
+    "ace": 9,
+    "difficulty": 4
   },
   {
     "date": "2025-07-17",
     "start": "MATTE",
-    "end": "MEDIUM",
-    "par": 10,
-    "ace": 7
+    "end": "GLOSSY",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-18",
-    "start": "SENSORY",
+    "start": "SPENDER",
     "end": "SAVER",
-    "par": 9,
-    "ace": 6
+    "ace": 5,
+    "difficulty": 2
   },
   {
     "date": "2025-07-19",
-    "start": "COUSINS",
-    "end": "TUFTS",
-    "par": 13,
-    "ace": 9
+    "start": "PARENT",
+    "end": "CHILD",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-20",
-    "start": "DEEPEST",
+    "start": "SWORD",
     "end": "LANCE",
-    "par": 12,
-    "ace": 8
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-07-21",
-    "start": "COPYING",
-    "end": "LOVING",
-    "par": 6,
-    "ace": 3
+    "start": "LOATHE",
+    "end": "ADORE",
+    "ace": 7,
+    "difficulty": 3
   },
   {
     "date": "2025-07-22",
-    "start": "ENTAIL",
-    "end": "CREATURE",
-    "ace": 12,
-    "difficulty": 5
+    "start": "WHISKER",
+    "end": "TAIL",
+    "ace": 9,
+    "difficulty": 3
   },
   {
     "date": "2025-07-23",
-    "start": "METALS",
-    "end": "ROOFING",
-    "par": 13,
-    "ace": 9
+    "start": "CELLAR",
+    "end": "ROOF",
+    "ace": 7,
+    "difficulty": 3
   },
   {
     "date": "2025-07-24",
     "start": "ANGELS",
-    "end": "ROBUST",
-    "par": 12,
-    "ace": 8
+    "end": "DEVILS",
+    "ace": 7,
+    "difficulty": 3
   },
   {
     "date": "2025-07-25",
-    "start": "CURED",
-    "end": "INCOME",
-    "par": 12,
-    "ace": 8
+    "start": "SCHOOL",
+    "end": "LEARN",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-26",
-    "start": "GODDESS",
-    "end": "REALM",
-    "par": 12,
-    "ace": 8
+    "start": "CLEAR",
+    "end": "DIRTY",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-07-27",
@@ -498,94 +498,94 @@ globalThis.games = [
   },
   {
     "date": "2025-07-29",
-    "start": "GENERAL",
-    "end": "REFILL",
-    "par": 10,
-    "ace": 7
+    "start": "LIMIT",
+    "end": "REIN",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-07-30",
-    "start": "GROWERS",
-    "end": "QUARTZ",
-    "par": 13,
-    "ace": 9
+    "start": "SEEDS",
+    "end": "PLANT",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-07-31",
     "start": "INTERNET",
     "end": "ROUTER",
     "ace": 9,
-    "difficulty": 2
+    "difficulty": 4
   },
   {
     "date": "2025-08-01",
-    "start": "RELIANCE",
-    "end": "CASTE",
-    "par": 13,
-    "ace": 9
+    "start": "GREEN",
+    "end": "SENIOR",
+    "ace": 7,
+    "difficulty": 3
   },
   {
     "date": "2025-08-02",
-    "start": "COMPLY",
-    "end": "WARNED",
-    "par": 10,
-    "ace": 7
+    "start": "CRATE",
+    "end": "BARREL",
+    "ace": 5,
+    "difficulty": 3
   },
   {
     "date": "2025-08-03",
-    "start": "FLYER",
-    "end": "PASSED",
-    "par": 9,
-    "ace": 6
+    "start": "GODDESS",
+    "end": "PRAISE",
+    "ace": 9,
+    "difficulty": 4
   },
   {
     "date": "2025-08-04",
-    "start": "EXPRESS",
+    "start": "RAINY",
     "end": "SHELTER",
-    "par": 14,
-    "ace": 10
+    "ace": 9,
+    "difficulty": 3
   },
   {
     "date": "2025-08-05",
-    "start": "THEREOF",
-    "end": "HEALTH",
-    "par": 13,
-    "ace": 9
+    "start": "SICK",
+    "end": "HEALTHY",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-08-06",
     "start": "NUMBER",
-    "end": "BEDROOM",
-    "par": 13,
-    "ace": 9
+    "end": "LETTER",
+    "ace": 7,
+    "difficulty": 3
   },
   {
     "date": "2025-08-07",
-    "start": "CRITICS",
+    "start": "MULE",
     "end": "DONKEY",
-    "par": 15,
-    "ace": 11
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-08-08",
-    "start": "HOPPER",
-    "end": "TUNNING",
-    "par": 13,
-    "ace": 9
+    "start": "COFFEE",
+    "end": "BREW",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-08-09",
-    "start": "RETIRED",
-    "end": "TURBO",
-    "par": 13,
-    "ace": 9
+    "start": "SLOW",
+    "end": "SPEEDY",
+    "ace": 6,
+    "difficulty": 2
   },
   {
     "date": "2025-08-10",
     "start": "ACTION",
     "end": "SPEAKS",
-    "par": 12,
-    "ace": 8
+    "ace": 9,
+    "difficulty": 3
   },
   {
     "date": "2025-08-11",
@@ -597,9 +597,9 @@ globalThis.games = [
   {
     "date": "2025-08-12",
     "start": "LETTER",
-    "end": "LETTERING",
-    "par": 12,
-    "ace": 8
+    "end": "LETTERED",
+    "ace": 8,
+    "difficulty": 4
   },
   {
     "date": "2025-08-13",
@@ -611,23 +611,23 @@ globalThis.games = [
   {
     "date": "2025-08-14",
     "start": "COLONY",
-    "end": "RESIDES",
-    "par": 12,
-    "ace": 8
+    "end": "SETTLE",
+    "ace": 10,
+    "difficulty": 3
   },
   {
     "date": "2025-08-15",
-    "start": "REGULATED",
-    "end": "CIRCUS",
-    "par": 16,
-    "ace": 12
+    "start": "HORSE",
+    "end": "MAN",
+    "ace": 6,
+    "difficulty": 1
   },
   {
     "date": "2025-08-16",
     "start": "VIVID",
-    "end": "DARLING",
-    "par": 12,
-    "ace": 8
+    "end": "DULL",
+    "ace": 7,
+    "difficulty": 3
   },
   {
     "date": "2025-08-17",
@@ -731,19 +731,21 @@ globalThis.games = [
     "date": "2025-08-31",
     "start": "LEADER",
     "end": "SERVANT",
-    "par": 9,
-    "ace": 6
+    "ace": 7,
+    "difficulty": 3
   },
   {
     "date": "2025-09-01",
     "start": "THINKER",
-    "end": "OVERSEES",
-    "ace": 10
+    "end": "DOER",
+    "ace": 6,
+    "difficulty": 2
   },
   {
     "date": "2025-09-02",
-    "start": "RETAINING",
-    "end": "REMOVED",
-    "ace": 13
+    "start": "RETAIN",
+    "end": "REMOVE",
+    "ace": 8,
+    "difficulty": 3
   }
 ];
